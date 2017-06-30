@@ -206,6 +206,7 @@
                     // if (self.arrayPos == 1){
                     //  self.stopNum = 14;
                     // }
+                    //http://www.xnxx.com/video-h1glp5e/yanks_ebony_tiffany_squirts
                     //every other time, delete the whole typed string
                     // else{
                     //  self.stopNum = 0;
