@@ -1,15 +1,10 @@
-# Full Screen Background Video
+# My-portfolio
 
-Creating a full screen background video with HTML5 and CSS. Makes use of some modern JS to detect whether video has buffered enough to allow autoplay to play through nicely.
 
 ## License
 
-Licensed under the MIT license, [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
+Copyright 2017, martin-mutembei
+[https://mutembei-martin.github.io/Walker.github.io/](www.hishade.cf)
 
-Copyright 2014, Call Me Nick
+## Live Demonstration of my skills
 
-[http://callmenick.com](http://callmenick.com)
-
-## Live Demo
-
-[View the live demo here](http://callmenick.com/development/video/full-screen-background-video/).
