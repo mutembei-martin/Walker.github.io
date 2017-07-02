@@ -772,9 +772,9 @@ margin-top: 10%;
   
 }
 #emailpic{
-  width: 10%;
-  height: 30%;
-  margin-left: -60%;
+ /* width: 80px;
+  height: 80px;*/
+  margin-left: -30%;
 }
 #phonepic{
   width: 12%;
