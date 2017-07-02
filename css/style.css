@@ -897,6 +897,7 @@ font-size: 20px;
 }
 #copy{
   color:#fff;
+
 }
 #copyhr{
   width: 40%;
@@ -906,7 +907,7 @@ font-size: 20px;
   float: left;
   height: 20px;
   width: 20px;
-
+  margin-left: 20%;
 }
 .insta>img{
   height:40px;
@@ -942,6 +943,46 @@ font-size: 20px;
   width: 40px;
 }
 
+
+.pin{
+  float: left;
+  height: 20px;
+  width: 20px;
+  margin-left: 10%;
+}
+.pin>img{
+  height:40px;
+  width: 40px;
+}
+.flickr{
+  float: left;
+  height: 20px;
+  width: 20px;
+  margin-left: 10%;
+}
+.flickr>img{
+  height:40px;
+  width: 40px;
+}
+.in{
+  float: left;
+  height: 20px;
+  width: 20px;
+  margin-left: 10%;
+}
+.in>img{
+  height:40px;
+  width: 40px;
+}
+/*.google{
+  height: 20px;
+  width: 20px;
+  margin-left: 10%;
+}
+.google>img{
+  height:40px;
+  width: 40px;
+}*/
 
 @media (min-width: 1450px) {
   .insta>img{
