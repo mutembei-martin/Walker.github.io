@@ -878,6 +878,9 @@ font-size: 20px;
 #adressphone{
   font-size: 20px;
 }
+#phonepic{
+  margin-top: 100%;
+}
 }
 
 /*////////////////////////////////////////////END CONTACT SECTION///////////////////////////////////////////////*/
@@ -933,7 +936,7 @@ font-size: 20px;
   height:40px;
   width: 40px;
 }
-.google{
+/*.google{
   height: 20px;
   width: 20px;
   margin-left: 10%;
@@ -942,7 +945,7 @@ font-size: 20px;
   height:40px;
   width: 40px;
 }
-
+*/
 
 .pin{
   float: left;
