@@ -556,13 +556,15 @@ background-color: transparent;
   color:#00cccc;
   text-align: left;
   font-size:22px;
+
 }
 #click1{
 color:#Fff;
 font-size:22px;
+
 }
 .me .classme{
-  display: none;
+ 
 }
 .classwhyme{
   display: none;
@@ -768,7 +770,7 @@ margin-top: 10%;
 }
 #adressphone>p{
  margin-top: 2%;
-  margin-left: 30%;
+  margin-left: 40%;
   
 }
 #emailpic{
@@ -778,7 +780,7 @@ margin-top: 10%;
 }
 #phonepic{
   width: 12%;
-  height: 30%;
+  height: 20px;
   margin-left: 25%;
   margin-top:0%;
 }
@@ -879,6 +881,79 @@ font-size: 20px;
 }
 
 /*////////////////////////////////////////////END CONTACT SECTION///////////////////////////////////////////////*/
+/*//////////////////////////////////////////////START COPYRIGHT SECTION////////////////////////////////////////////////*/
+#copyright {
+  display: inline-block;
+  margin: 0;
+  padding: 12px 48px;
+  color: #ff3c64;
+  height:120px;
+  width: 100%;
+  margin-top: 18px;
+  background-color: #000;
+  font-size: 22px;
+  text-decoration: none;
+  border: solid 4px #fff;
+}
+#copy{
+  color:#fff;
+}
+#copyhr{
+  width: 40%;
+  margin-top: -0.5%;
+}
+.insta{
+  float: left;
+  height: 20px;
+  width: 20px;
+
+}
+.insta>img{
+  height:40px;
+  width: 40px;
+}
+.fb{
+  float: left;
+  height: 20px;
+  width: 20px;
+  margin-left: 10%;
+}
+.fb>img{
+  height:40px;
+  width: 40px;
+}
+.twitter{
+  float: left;
+  height: 20px;
+  width: 20px;
+  margin-left: 10%;
+}
+.twitter>img{
+  height:40px;
+  width: 40px;
+}
+.google{
+  height: 20px;
+  width: 20px;
+  margin-left: 10%;
+}
+.google>img{
+  height:40px;
+  width: 40px;
+}
+
+
+@media (min-width: 1450px) {
+  .insta>img{
+
+ margin-left: -20%;
+}
+}
+
+
+
+
+
 
 
 
@@ -978,19 +1053,6 @@ margin-top: 20%;
 }
 }
 
-#copyright {
-  display: inline-block;
-  margin: 0;
-  padding: 12px 48px;
-  color: #ff3c64;
-  height:120px;
-  width: 100%;
-  margin-top: 18px;
-  background-color: #666666;
-  font-size: 22px;
-  text-decoration: none;
-  border: solid 4px #fff;
-}
 
 /*///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
 
