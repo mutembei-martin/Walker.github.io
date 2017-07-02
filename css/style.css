@@ -89,6 +89,10 @@ body {
   -o-transition: all 0.5s ease-out;
   transition: all 0.5s ease-out; }
 
+  #typed{
+    text-decoration: underline;
+  }
+
 .text-body1 {
   height: 300px;
   background-color: rgba(0, 0, 0, 0.85);
