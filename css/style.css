@@ -674,6 +674,10 @@ font-size:22px;
 }
 
 @media (max-width: 750px) {
+  #projects {
+  height:550px;
+ 
+}
 .projecttxt{
   font-size: 30px;
   font-family: arial black;
@@ -835,6 +839,11 @@ margin-top: 10%;
 
 
 @media (max-width: 750px) {
+  #contact { 
+  height:450px;
+ 
+}
+
  #adressphone{
   margin-top: 5%;
   margin-left:-100%;

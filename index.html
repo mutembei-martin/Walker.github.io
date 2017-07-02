@@ -24,7 +24,7 @@
 		$(function(){
 
 			$("#typed").typed({
-				strings: ["Welcome to sjade","Welcome to Shade  :)"],
+				strings: ["Welcome to sjade","Welcome to Shade. "],
 			typeSpeed: 30,
 			callback: function(){
 				shift();
@@ -43,7 +43,7 @@
 		$(function(){
 
 			$("#typed1").typed({
-				strings: ["Shade is an interactive platform created by Mutembei Kimathi, a web designer and app developer. Let's start this awesome journey together. "],
+				strings: ["Shade is an interactive platform created by Martin Mutembei, a web designer and app developer. Let's start this awesome journey together. "],
 				typeSpeed: 20,
 				callback: function(){
 					shift();
@@ -305,6 +305,11 @@ $(document).ready(function(){
     })
 
   })
+
+
+$(window).load(function(){
+    $(".typed-cursor1").delay(1000).fadeOut;    
+});
 
 
 </script>
