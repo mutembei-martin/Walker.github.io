@@ -912,7 +912,7 @@ font-size: 20px;
   width: 20px;
   margin-left: 20%;
 }
-.insta>img{
+.insta>a>img{
   height:40px;
   width: 40px;
 }
@@ -922,7 +922,7 @@ font-size: 20px;
   width: 20px;
   margin-left: 10%;
 }
-.fb>img{
+.fb>a>img{
   height:40px;
   width: 40px;
 }
@@ -932,7 +932,7 @@ font-size: 20px;
   width: 20px;
   margin-left: 10%;
 }
-.twitter>img{
+.twitter>a>img{
   height:40px;
   width: 40px;
 }
