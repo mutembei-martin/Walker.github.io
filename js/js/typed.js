@@ -273,6 +273,8 @@
 
         };
 
+        //Licensed under the MIT license, [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
+
     $.fn.typed = function (option) {
         return this.each(function () {
           var $this = $(this)
